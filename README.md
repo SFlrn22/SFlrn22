@@ -11,8 +11,13 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 #
+
+<br />
 
 ### 👨‍💻 Languages and Tools that I'm using
 
@@ -31,6 +36,8 @@
 <img align="left" alt="VScode" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 
+<br />
+<br />
 <br />
 
 ### 🌱 Technologies that I'm currently learning
