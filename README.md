@@ -38,7 +38,6 @@
 
 <br />
 <br />
-<br />
 
 ### 🌱 Technologies that I'm currently learning
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
