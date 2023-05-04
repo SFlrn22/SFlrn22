@@ -2,8 +2,8 @@
 <h3 align="center">A software developer from Romania with a passion of learning new technologies</h3>
 <br />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SFlrn22&hide=stars,prs,issues,contribs&theme=github_dark&rank_icon=github&hide_border=true" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SFlrn22&hide_progress=true&layout=compact" /> 
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=SFlrn22&hide=stars,prs,issues,contribs&theme=github_dark&rank_icon=github&hide_border=true" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SFlrn22&hide_progress=true&layout=compact" /> 
 
 <br />
 <br />
